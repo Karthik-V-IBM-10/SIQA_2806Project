@@ -42,6 +42,11 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
+- name: JMSTest
+  gitServerName: kvv
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: Karthik-V-IBM-10
+  gitBranch: main
 services:
 - serviceName: project.siqa_2806.integrations:SSL_JDBC_test
   packages:
